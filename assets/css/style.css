@@ -147,7 +147,7 @@ width: 50px;
 /*END SECTION TITLE DESIGN*/
 /*START SCROLL TO TOP*/
 .topcontrol {
-background: #2a80b9 none repeat scroll 0 0;
+background: #ffea00 none repeat scroll 0 0;
 border-radius: 5px;
 bottom: 5px;
 box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.2);
@@ -193,7 +193,7 @@ width: 100%;
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #2a80b9 !important;
+    color: #ffea00 !important;
     background-color: transparent;
 }
 .navbar-default .navbar-nav>.open>a,
@@ -217,7 +217,7 @@ font-weight: 600;
 letter-spacing: 4px;
 text-transform: uppercase;
 }
-.menu-top li a:hover { color: #2a80b9!important }
+.menu-top li a:hover { color: #ffea00!important }
 @media only screen and (max-width:768px) { 
     .navbar-default .navbar-nav > li > a {
         margin-top: 10px;
@@ -241,11 +241,11 @@ width: 100%;
     }
 }
 .navbar-default.menu-shrink li a {color:#333 !important; }
-.navbar-default.menu-shrink li a:hover { color: #2a80b9 !important }
+.navbar-default.menu-shrink li a:hover { color: #ffea00 !important }
 .navbar-default .navbar-toggle { background: #fff none repeat scroll 0 0 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus { background-color: #fff }
-.navbar-default .navbar-toggle .icon-bar { background-color: #2a80b9 }
+.navbar-default .navbar-toggle .icon-bar { background-color: #ffea00 }
 /*
 * ----------------------------------------------------------------------------------------
 * 02.END BOOTSTRAP NAVIGATION OVERRIDES
@@ -332,7 +332,7 @@ border: 2px solid #fff!important;
 color:#fff!important;
 }
 .home_btn_color_one{background: #fff none repeat scroll 0 0 !important;color: #333;}
-.home_btn_color_two{background: #2a80b9 none repeat scroll 0 0 !important;border: 2px solid #2a80b9 !important;color: #fff;}
+.home_btn_color_two{background: #ffea00 none repeat scroll 0 0 !important;border: 2px solid #ffea00 !important;color: #fff;}
 
 .welcome-area,
 .welcome-slider-area,
@@ -472,10 +472,10 @@ width: 175px;
 .single_about {margin-bottom: 15px;width: 175px;}
 }
 .single_about_mrnone{margin-right: 0px;}
-.single_about:hover{background:#2a80b9;border: 1px solid #2a80b9;}
+.single_about:hover{background:#ffea00;border: 1px solid #ffea00;}
 
 .single_about i {
-color: #2a80b9;
+color: #ffea00;
 font-size: 30px;
 margin-bottom: 10px;
 transition: all 0.2s ease 0s;
@@ -528,7 +528,7 @@ font-weight: 500;
     width: 100%;
 }
 .progress-bar > span {
-    background: #2a80b9 none repeat scroll 0 0;
+    background: #ffea00 none repeat scroll 0 0;
     display: block;
     height: 100%;
     width: 0;
@@ -545,7 +545,7 @@ font-weight: 500;
 * ----------------------------------------------------------------------------------------
 */
 .single_counter{
-background: #2a80b9 none repeat scroll 0 0;
+background: #ffea00 none repeat scroll 0 0;
 border-right: 1px solid #1F77B2;
 box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
 padding: 60px 30px;
@@ -583,7 +583,7 @@ margin-bottom: 30px;
 padding:30px;
 }
 .single_service:after {
-background: #2a80b9 none repeat scroll 0 0;
+background: #ffea00 none repeat scroll 0 0;
 content: "";
 height: 100%;
 left: 0;
@@ -606,7 +606,7 @@ position: relative;
 z-index: 999;
 transition: all 0.4s ease 0s;
 }
-.single_service:hover .single_service_inner{border:1px dashed #2a80b9}
+.single_service:hover .single_service_inner{border:1px dashed #ffea00}
 .single_service i{
 color: #fff;
 font-size: 40px;
@@ -702,8 +702,8 @@ letter-spacing: 2px;
 	font-size: 14px;	
 }
 .sing_link_img a{
-	background: #2a80b9 none repeat scroll 0 0;
-	border: 1px solid #2a80b9;
+	background: #ffea00 none repeat scroll 0 0;
+	border: 1px solid #ffea00;
 	border-radius: 50%;
 	color: #fff;
 	display: inline-block;
@@ -716,7 +716,7 @@ letter-spacing: 2px;
 .sing_link_img a:hover{	
 	background: #fff none repeat scroll 0 0;
 	border-color: #fff;
-	color: #2a80b9;
+	color: #ffea00;
 }
 .sing_link_img a.search{
 	margin-right: 16px;
@@ -773,7 +773,7 @@ color: #777;
 font-size: 13px;
 transition: all 0.4s ease 0s;
 }
-.project-list li a:hover{color:#2a80b9;}
+.project-list li a:hover{color:#ffea00;}
 /*End project modal*/
 /*
 * ----------------------------------------------------------------------------------------
@@ -799,7 +799,7 @@ transition: all 0.4s ease 0s;
 	bottom: -100%;
 	padding: 30px;
 	padding-bottom: 0px;
-	background: #2a80b9;
+	background: #ffea00;
 	transition: all 0.3s ease-in-out;
 }
 .single_team:hover .team-hover {
@@ -854,10 +854,10 @@ width: 45px;
 margin: 0px 2px;
 }
 .social li a:hover {
-	color: #2a80b9;
+	color: #ffea00;
 }
 .team-name {
-background:#2a80b9;
+background:#ffea00;
 opacity:0.8;
 bottom: 0;
 color: #fff;
@@ -896,7 +896,7 @@ padding: 30px;
 text-align: center;
 }
 .testimonial-text i{
-color: #2a80b9;
+color: #ffea00;
 font-size: 60px;
 margin-bottom: 20px;
 }
@@ -904,7 +904,7 @@ margin-bottom: 20px;
 float: left;
 margin-right: 20px;
 text-align: center;
-background: #2a80b9;
+background: #ffea00;
 padding: 15px 30px;
 }
 @media only screen and (max-width:360px) { 
@@ -938,15 +938,15 @@ margin-bottom: 20px;
 overflow: hidden;
 }
 .carousel-indicators li {
-    border: 1px solid #2a80b9;
+    border: 1px solid #ffea00;
     border-radius: 12px;
     height: 12px;
     margin: 0 1px;
     width: 5px;
-    background: #2a80b9;
+    background: #ffea00;
 }
 .carousel-indicators .active {
-  background-color: #2a80b9;
+  background-color: #ffea00;
   height: 18px;
   margin: 0 1px ;
   width: 5px;
@@ -1002,7 +1002,7 @@ transition: all 0.2s ease 0s;
 }
 .btn-blog-bg:hover,
 .btn-blog-bg:focus {
-    color: #2a80b9;
+    color: #ffea00;
 }
 /*
 * ----------------------------------------------------------------------------------------
@@ -1016,7 +1016,7 @@ transition: all 0.2s ease 0s;
 * 12.START COMPANY PARTNER LOGO
 * ----------------------------------------------------------------------------------------
 */
-.partner-logo {background:#2a80b9;}
+.partner-logo {background:#ffea00;}
 .partner { text-align: center }
 /*
 * ----------------------------------------------------------------------------------------
@@ -1068,18 +1068,18 @@ border: 1px solid #e8e8e9;
     .contact textarea { width: 100% }
 }
 .contact input:focus {
-    border: 1px solid #2a80b9;
+    border: 1px solid #ffea00;
     box-shadow: none;
     outline: 0 none;
 }
 .contact textarea:focus {
-     border: 1px solid #2a80b9;
+     border: 1px solid #ffea00;
     box-shadow: none;
     outline: 0 none;
 }
 .btn-contact-bg {
-    background: #2a80b9 none repeat scroll 0 0 !important;
-    border: 2px solid #2a80b9 !important;
+    background: #ffea00 none repeat scroll 0 0 !important;
+    border: 2px solid #ffea00 !important;
     border-radius: 3px;
     box-shadow: none;
     color: #fff!important;
@@ -1100,7 +1100,7 @@ border: 1px solid #e8e8e9;
     .single_address { margin-bottom: 30px }
 }
 .single_address i {
-background: #2a80b9 none repeat scroll 0 0;
+background: #ffea00 none repeat scroll 0 0;
 border-radius: 30px;
 color: #fff;
 font-size: 24px;
@@ -1165,7 +1165,7 @@ background: #25252a none repeat scroll 0 0;
 @media only screen and (max-width:480px) { 
 .footer_menu ul li a {padding: 0 10px;}
 }
-.footer_menu ul li a:hover { color: #2a80b9 }
+.footer_menu ul li a:hover { color: #ffea00 }
 /*END FOOTER SOCIAL DESIGN*/
 .copyright p {
 color:#fff;
